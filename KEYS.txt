@@ -1,0 +1,10 @@
+# Per-notebook unlock keys (instructor copy — do not distribute).
+# Hand each key out in class; students call reveal_solution(ex, key=...).
+
+nb1_foundations.ipynb	nb1-cbff0b
+nb2_qft.ipynb	nb2-be7d6d
+nb3_qpe.ipynb	nb3-8f890a
+nb4_shor.ipynb	nb4-91a1f3
+nb5_grover.ipynb	nb5-7137c1
+nb6_hamsim.ipynb	nb6-7d58a1
+nb7_hhl.ipynb	nb7-051a9a
